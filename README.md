@@ -35,7 +35,7 @@ Database connected
 Server running on port 3000
 
 
-💡 2. Assumptions Made
+###💡 2. Assumptions Made
 Offers have a unique id that identifies them.
 
 Offers apply based on:

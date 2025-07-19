@@ -1,0 +1,31 @@
+{
+  "flipkartOfferApiResponse": [
+    {
+      "id": "OFFER001",
+      "title": "10% off with AXIS Credit Card",
+      "bankName": "AXIS",
+      "discountType": "PERCENTAGE",
+      "discountValue": 10,
+      "maxDiscountAmount": 750,
+      "paymentInstrument": "CREDIT"
+    },
+    {
+      "id": "OFFER002",
+      "title": "Flat \u20b9500 off with IDFC EMI",
+      "bankName": "IDFC",
+      "discountType": "FLAT",
+      "discountValue": 500,
+      "maxDiscountAmount": null,
+      "paymentInstrument": "EMI_OPTIONS"
+    },
+    {
+      "id": "OFFER003",
+      "title": "15% off on AXIS EMI up to \u20b91000",
+      "bankName": "AXIS",
+      "discountType": "PERCENTAGE",
+      "discountValue": 15,
+      "maxDiscountAmount": 1000,
+      "paymentInstrument": "EMI_OPTIONS"
+    }
+  ]
+}
